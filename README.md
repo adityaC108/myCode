@@ -1,4 +1,4 @@
 # myCode
 It's my first Git repository.
 <br>
-Author - Aditya Chavan
+Author - Aditya Chavan (Student)
